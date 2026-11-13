@@ -53,7 +53,7 @@ standard seulement) et, pour Fire TV et Android TV,
 [adb](https://developer.android.com/tools/releases/platform-tools) dans le `PATH`.
 
 ```bash
-git clone https://github.com/<compte>/tv-sans-pub.git ~/.claude/skills/tv-sans-pub
+git clone https://github.com/Jeaneveillard/tv-sans-pub.git ~/.claude/skills/tv-sans-pub
 ```
 
 Sous Windows, le dossier est `%USERPROFILE%\.claude\skills\tv-sans-pub`.
