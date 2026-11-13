@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# Fichiers de travail d'une vraie TV : ne jamais publier
+inventaire-*.json
+plan-*.json
+restauration-*.json
+rapport-*.md
+*.apk
